@@ -1,7 +1,10 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: October 17, 2023
+- Facilitator: Madelyn Kapfhammer
+- Name: Madelyn Kapfhammer
+
+Hi! My name is Maddy! I have a dog named **Bosco** and love to go on _long_ walks with him!
 
 ## Class Resources
 
